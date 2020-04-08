@@ -1,0 +1,108 @@
+body {
+	background:#CCD2D3;
+	color:#000000;
+	text-indent:10px;
+	text-align:center;
+}
+h1	{
+	color:#fff;
+	text-align:center;
+}
+h2	{
+	color:#fff;
+	text-align:center;
+}
+h3	{
+	color:#fff;
+	text-align:center;
+	
+}
+h1	{
+	font-size:50px;
+}
+h2	{
+	font-size:40px;
+}
+h3	{
+	font-size:30px;
+}
+a	{
+	font-size:20px;
+}
+p	{
+	font-size:20px;
+}
+a	{
+	color:#229857;
+}
+p	{
+	font-family:"Vijaya";
+	font-align:justify;
+}
+h1	{
+	font-family:"Vijaya";
+}
+h2	{
+	font-family:"Vijaya";
+}
+h3	{
+	font-family:"Vijaya";
+}
+a	{
+	font-family:"Vijaya";
+}
+a:hover	{
+	text-decoration:underline;
+	background:#000;
+	color:#fff;
+}
+a:visited	{
+	color:red;
+}
+
+.caja {
+font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color:#fff;	
+font-size:0px; 
+font-weight:100; 
+text-align:center; 
+background:#16300D; 
+margin:0 0 1px; 
+overflow:hidden; 
+padding:1px; 
+border-radius:10px 0px 10px 0px; 
+-moz-border-radius:30px 30px 30px 30px; 
+-webkit-border-radius:30px 30px 30px 30px; 
+border: 2px solid #65FC31;}
+}
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+   
+}
+
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+   
+}
+
+#navegador li a {
+   padding: 2px 7px 2px 7px;
+   color: #fff;
+   background-color: #000;
+   border: 2px solid #65FC31;
+   text-decoration: none;
+   
+}
+
+#navegador li a:hover{
+   background-color: #333333;
+   color: #ffffff;
+   
+}
+
+
+
+
